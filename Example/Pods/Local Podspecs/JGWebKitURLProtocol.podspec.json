@@ -1,0 +1,22 @@
+{
+  "name": "JGWebKitURLProtocol",
+  "version": "0.1.0",
+  "summary": "A short description of JGWebKitURLProtocol.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lbj147123@163.com/JGWebKitURLProtocol",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lbj147123@163.com": "lbj147123@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lbj147123@163.com/JGWebKitURLProtocol.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JGWebKitURLProtocol/Classes/**/*"
+}

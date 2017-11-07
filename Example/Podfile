@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JGWebKitURLProtocol_Example' do
+  pod 'JGWebKitURLProtocol', :path => '../'
+
+  target 'JGWebKitURLProtocol_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

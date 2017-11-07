@@ -1,0 +1,16 @@
+PODS:
+  - JGWebKitURLProtocol (0.1.0)
+
+DEPENDENCIES:
+  - JGWebKitURLProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  JGWebKitURLProtocol:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JGWebKitURLProtocol: c56c5d37cc8bc186c88a1332ffb38ddfe4047d75
+
+PODFILE CHECKSUM: c7719a468a279970b0babd2168e0460b2e681640
+
+COCOAPODS: 1.2.1
